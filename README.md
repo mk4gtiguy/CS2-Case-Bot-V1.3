@@ -7,7 +7,6 @@
 
 A complete CS2 case opening bot for Streamer.bot with inventory, economy, jackpot, and leaderboards. Perfect for CS2 streamers who want to add interactive engagement without real money.
 
-**✅ No bugs! Fully tested and stable.**
 
 ---
 
@@ -17,22 +16,22 @@ A complete CS2 case opening bot for Streamer.bot with inventory, economy, jackpo
 
 ---
 
-## 🚀 Quick Install (2 Minutes)
+## 🚀 Quick Install (5 Minutes)
 
-### One-Click Import (Easiest)
+### One-Click Import (Actions)
 
 1. Download [`CS2-Case-Bot-V1.3-Actions.sb`](CS2-Case-Bot-V1.3-Actions.sb)
 2. In Streamer.bot → **Actions** → Right-click → **Import** → Select the file
-3. Download [`CS2-Case-Bot-V1.3-Globals.json`](CS2-Case-Bot-V1.3-Globals.json)
-4. In Streamer.bot → **Services** → **Global Variables** → **Persisted Globals** → **Import** → Select the file
+3. Open [`persisted-globals.txt`](persisted-globals.txt) and copy each line
+4. In Streamer.bot → **Services** → **Global Variables** → **Persisted Globals** → Add each line as a new variable
 5. Set `!jackpotdraw` to **Moderator** permission
 6. Type `!help` in your chat to test!
 
-**That's it! All actions, triggers, and skin lists are ready to go!**
+**Actions import automatically. Globals take ~5 minutes to add manually.**
 
 ### Manual Setup (For Learning or Modifying)
 
-Follow the [`setup-guide.md`](setup-guide.md) and use the code in [`V1.3-Complete-Code-Reference.md`](V1.3-Complete-Code-Reference.md)
+Follow the code in [`V1.3-Complete-Code-Reference.md`](V1.3-Complete-Code-Reference.md)
 
 ---
 
@@ -109,9 +108,8 @@ Follow the [`setup-guide.md`](setup-guide.md) and use the code in [`V1.3-Complet
 | File | Description |
 |------|-------------|
 | `CS2-Case-Bot-V1.3-Actions.sb` | One-click action import (all commands + triggers) |
-| `CS2-Case-Bot-V1.3-Globals.json` | One-click persisted globals import (skin lists) |
 | `V1.3-Complete-Code-Reference.md` | All action C# code (manual setup) |
-| `persisted-globals.txt` | Skin lists for copy/paste (manual setup) |
+| `persisted-globals.txt` | Skin lists for copy/paste |
 | `setup-guide.md` | Step-by-step installation |
 | `LICENSE` | MIT License + IP Disclaimer |
 
@@ -189,5 +187,5 @@ This software is a **fan project** and does not contain any actual gambling or r
 
 | Version | Changes |
 |---------|---------|
-| V1.3 | Added case switching, case costs, fixed jackpot commands, added export files for one-click import |
+| V1.3 | Added case switching, case costs, fixed jackpot commands, added action export for one-click import |
 | V1.2 | Initial release |
