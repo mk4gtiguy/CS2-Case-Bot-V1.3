@@ -1,15 +1,38 @@
-# 🎮 CS2 Case Bot for Streamer.bot
+# 🎮 CS2 Case Bot for Streamer.bot V1.3
 
+[![Version](https://img.shields.io/badge/version-1.3-blue.svg)](https://github.com/mk4gtiguy/CS2-Case-Bot-V1.3)
+[![Streamer.bot](https://img.shields.io/badge/Streamer.bot-1.0.4+-orange.svg)](https://streamer.bot)
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20Me-FF5E5B?style=flat-square&logo=kofi&logoColor=white)](https://ko-fi.com/mk4gtiguy)
 [![License](https://img.shields.io/badge/License-MIT%20%2B%20Disclaimer-yellow.svg?style=flat-square)](LICENSE)
 
 A complete CS2 case opening bot for Streamer.bot with inventory, economy, jackpot, and leaderboards. Perfect for CS2 streamers who want to add interactive engagement without real money.
+
+**✅ No bugs! Fully tested and stable.**
 
 ---
 
 ## ⚠️ Disclaimer
 
 > This bot is a **fan project for entertainment purposes only**. All CS2 skin names, case names, and trademarks are property of **Valve Corporation**. This bot is not affiliated with, endorsed by, or sponsored by Valve. No real money or actual CS2 items are involved — everything is simulated with fake currency and emoji-based items.
+
+---
+
+## 🚀 Quick Install (2 Minutes)
+
+### One-Click Import (Easiest)
+
+1. Download [`CS2-Case-Bot-V1.3-Actions.sb`](CS2-Case-Bot-V1.3-Actions.sb)
+2. In Streamer.bot → **Actions** → Right-click → **Import** → Select the file
+3. Download [`CS2-Case-Bot-V1.3-Globals.json`](CS2-Case-Bot-V1.3-Globals.json)
+4. In Streamer.bot → **Services** → **Global Variables** → **Persisted Globals** → **Import** → Select the file
+5. Set `!jackpotdraw` to **Moderator** permission
+6. Type `!help` in your chat to test!
+
+**That's it! All actions, triggers, and skin lists are ready to go!**
+
+### Manual Setup (For Learning or Modifying)
+
+Follow the [`setup-guide.md`](setup-guide.md) and use the code in [`V1.3-Complete-Code-Reference.md`](V1.3-Complete-Code-Reference.md)
 
 ---
 
@@ -81,42 +104,14 @@ A complete CS2 case opening bot for Streamer.bot with inventory, economy, jackpo
 
 ---
 
-## 🚀 Quick Setup
-
-### Prerequisites
-- [Streamer.bot](https://streamer.bot) v1.0.4 or higher
-- Twitch, YouTube, or Trovo account
-
-### Step 1: Import Persisted Globals
-1. Open Streamer.bot → **Services** → **Global Variables** → **Persisted Globals**
-2. Copy all skin lists from [`persisted-globals.txt`](persisted-globals.txt)
-3. Add each as a new persisted global variable
-
-### Step 2: Create Actions
-1. Create a new Action for each command
-2. Paste the corresponding C# code from [`V1.3-Complete-Code-Reference.md`](V1.3-Complete-Code-Reference.md)
-3. Set the trigger command (e.g., `!case`, `!inv`)
-
-### Step 3: Link Sub-Actions
-- For `!case` command: Add Sub-Action → **Run Action** → `CS2_OpenCase`
-
-### Step 4: Set Mod Permissions
-- Set `!jackpotdraw` permission to **Mods Only**
-
-### Step 5: Test
-- Type `!help` in your chat to see all commands
-- Type `!setcase Dreams` then `!case` to open your first case
-
-For detailed setup instructions, see [`setup-guide.md`](setup-guide.md)
-
----
-
 ## 📁 Files Included
 
 | File | Description |
 |------|-------------|
-| `V1.3-Complete-Code-Reference.md` | All action C# code |
-| `persisted-globals.txt` | Skin lists for copy/paste |
+| `CS2-Case-Bot-V1.3-Actions.sb` | One-click action import (all commands + triggers) |
+| `CS2-Case-Bot-V1.3-Globals.json` | One-click persisted globals import (skin lists) |
+| `V1.3-Complete-Code-Reference.md` | All action C# code (manual setup) |
+| `persisted-globals.txt` | Skin lists for copy/paste (manual setup) |
 | `setup-guide.md` | Step-by-step installation |
 | `LICENSE` | MIT License + IP Disclaimer |
 
@@ -178,7 +173,7 @@ This project is licensed under the **MIT License** with an **IP Disclaimer** —
 
 ## 🙏 Credits
 
-- Created by **Mk4gtiguy** on Twitch and YouTube
+- Created by **Mk4gtiguy**
 - Skin names from Counter-Strike 2 © Valve Corporation
 - Built for [Streamer.bot](https://streamer.bot)
 
@@ -187,3 +182,12 @@ This project is licensed under the **MIT License** with an **IP Disclaimer** —
 ## ⚠️ Legal Note
 
 This software is a **fan project** and does not contain any actual gambling or real money transactions. All currency and items are simulated for entertainment purposes only.
+
+---
+
+## 📌 Version History
+
+| Version | Changes |
+|---------|---------|
+| V1.3 | Added case switching, case costs, fixed jackpot commands, added export files for one-click import |
+| V1.2 | Initial release |
