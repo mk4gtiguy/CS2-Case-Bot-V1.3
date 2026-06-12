@@ -127,7 +127,6 @@ For detailed setup instructions, see [`setup-guide.md`](setup-guide.md)
 
 ## 🔧 Commands Cheat Sheet for Viewers
 
-```
 
 ## 📦 CASE COMMANDS
 !setcase [Dreams/Recoil/Kilowatt/Revolution/Fracture/Clutch] - Switch cases
