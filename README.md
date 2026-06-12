@@ -1,4 +1,4 @@
-
+---
 
 ```markdown
 # 🎮 CS2 Case Bot for Streamer.bot
