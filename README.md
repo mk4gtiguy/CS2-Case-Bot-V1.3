@@ -1,10 +1,9 @@
-```markdown
-## 🎮 CS2 Case Bot for Streamer.bot
+# 🎮 CS2 Case Bot for Streamer.bot
 
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20Me-FF5E5B?style=flat-square&logo=kofi&logoColor=white)](https://ko-fi.com/mk4gtiguy)
 [![License](https://img.shields.io/badge/License-MIT%20%2B%20Disclaimer-yellow.svg?style=flat-square)](LICENSE)
 
-A complete CS2 case opening bot for Streamer.bot with inventory, economy, jackpot, and leaderboards. Perfect for CS2 streamers who want to add interactive gambling-style engagement without real money.
+A complete CS2 case opening bot for Streamer.bot with inventory, economy, jackpot, and leaderboards. Perfect for CS2 streamers who want to add interactive engagement without real money.
 
 ---
 
@@ -94,7 +93,7 @@ A complete CS2 case opening bot for Streamer.bot with inventory, economy, jackpo
 3. Add each as a new persisted global variable
 
 ### Step 2: Create Actions
-1. Create a new Action for each command in the list above
+1. Create a new Action for each command
 2. Paste the corresponding C# code from [`V1.3-Complete-Code-Reference.md`](V1.3-Complete-Code-Reference.md)
 3. Set the trigger command (e.g., `!case`, `!inv`)
 
@@ -123,39 +122,36 @@ For detailed setup instructions, see [`setup-guide.md`](setup-guide.md)
 
 ---
 
-## 🔧 Commands Cheat Sheet for Viewers
+## 📋 Commands Cheat Sheet for Viewers
 
+**Case Commands**
+- `!setcase [Dreams/Recoil/Kilowatt/Revolution/Fracture/Clutch]` - Switch cases
+- `!case` - Open your selected case
+- `!caseinfo` - See all cases and prices
+- `!odds` - See drop rates
 
-## 📦 CASE COMMANDS
-!setcase [Dreams/Recoil/Kilowatt/Revolution/Fracture/Clutch] - Switch cases
-!case - Open your selected case
-!caseinfo - See all cases and prices
-!odds - See drop rates
+**Economy Commands**
+- `!balance` - Check your balance
+- `!daily` - Claim free $5-$25
+- `!inv` - View inventory
+- `!sell` - Sell a random item
+- `!tradeup` - Trade 10 Blues for 1 Purple
+- `!inventoryvalue` - Total inventory worth
 
-## 💰 ECONOMY COMMANDS
-!balance - Check your balance
-!daily - Claim free 25
-!inv - View inventory
-!sell - Sell a random item
-!tradeup - Trade 10 Blues for 1 Purple
-!inventoryvalue - Total inventory worth
+**Jackpot Commands**
+- `!jackpot` - Enter with a random item
+- `!jackpotinfo` - See current pot
 
-## 🎰 JACKPOT COMMANDS
-!jackpot - Enter with a random item
-!jackpotinfo - See current pot
+**Stats & Leaderboards**
+- `!mystats` - Your personal stats
+- `!casestats` - Total case opens
+- `!topmoney` - Richest users
+- `!topinventory` - Highest inventory value
+- `!topgolds` - Most gold pulls
+- `!topopens` - Most cases opened
 
-## 📊 STATS & LEADERBOARDS
-!mystats - Your personal stats
-!casestats - Total case opens
-!topmoney - Richest users
-!topinventory - Highest inventory value
-!topgolds - Most gold pulls
-!topopens - Most cases opened
-
-##❓ HELP
-!help - Show this list
-
-```
+**Help**
+- `!help` - Show all commands
 
 ---
 
@@ -191,6 +187,3 @@ This project is licensed under the **MIT License** with an **IP Disclaimer** —
 ## ⚠️ Legal Note
 
 This software is a **fan project** and does not contain any actual gambling or real money transactions. All currency and items are simulated for entertainment purposes only.
-```
-
----
