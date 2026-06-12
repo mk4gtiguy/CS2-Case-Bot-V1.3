@@ -178,7 +178,7 @@ This project is licensed under the **MIT License** with an **IP Disclaimer** —
 
 ## 🙏 Credits
 
-- Created by **Mk4gtiguy**
+- Created by **Mk4gtiguy** on Twitch and YouTube
 - Skin names from Counter-Strike 2 © Valve Corporation
 - Built for [Streamer.bot](https://streamer.bot)
 
