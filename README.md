@@ -129,13 +129,13 @@ For detailed setup instructions, see [`setup-guide.md`](setup-guide.md)
 
 ```
 
-📦 CASE COMMANDS
+## 📦 CASE COMMANDS
 !setcase [Dreams/Recoil/Kilowatt/Revolution/Fracture/Clutch] - Switch cases
 !case - Open your selected case
 !caseinfo - See all cases and prices
 !odds - See drop rates
 
-💰 ECONOMY COMMANDS
+## 💰 ECONOMY COMMANDS
 !balance - Check your balance
 !daily - Claim free 25
 !inv - View inventory
@@ -143,11 +143,11 @@ For detailed setup instructions, see [`setup-guide.md`](setup-guide.md)
 !tradeup - Trade 10 Blues for 1 Purple
 !inventoryvalue - Total inventory worth
 
-🎰 JACKPOT COMMANDS
+## 🎰 JACKPOT COMMANDS
 !jackpot - Enter with a random item
 !jackpotinfo - See current pot
 
-📊 STATS & LEADERBOARDS
+## 📊 STATS & LEADERBOARDS
 !mystats - Your personal stats
 !casestats - Total case opens
 !topmoney - Richest users
@@ -155,7 +155,7 @@ For detailed setup instructions, see [`setup-guide.md`](setup-guide.md)
 !topgolds - Most gold pulls
 !topopens - Most cases opened
 
-❓ HELP
+##❓ HELP
 !help - Show this list
 
 ```
