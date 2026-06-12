@@ -1,0 +1,37 @@
+```text
+DreamsGoldList = Karambit | Fade;Butterfly Knife | Fade;M9 Bayonet | Fade;Talon Knife | Fade
+DreamsRedList = AK-47 | Nightwish;MP5-SD | Necropos;Glock-18 | Dreaming;MP9 | Starlight Protector
+DreamsPinkList = AWP | Chromatic Aberration;MAC-10 | Allure;Dual Berettas | Flora Carnivora;P250 | Visions
+DreamsPurpleList = Five-SeveN | Nightshade;Tec-9 | Rebel;UMP-45 | Motorized;P90 | Vent Rush;SCAR-20 | Poultrygeist
+DreamsBlueList = Nova | Plume;Sawed-Off | Devourer;MAG-7 | Popdog;MP7 | Guerrilla;PP-Bizon | Midnight Palm;FAMAS | Meow 36
+
+RecoilGoldList = Karambit | Doppler;Butterfly Knife | Gamma Doppler;M9 Bayonet | Doppler;Talon Knife | Doppler
+RecoilRedList = AK-47 | Calm | Storm;M4A1-S | Serenity;Glock-18 | Umbral Rabbit;MP9 | Starlight Protector
+RecoilPinkList = AWP | Chromatic Aberration;MAC-10 | Allure;Dual Berettas | Flora Carnivora;P250 | Visions
+RecoilPurpleList = Five-SeveN | Nightshade;Tec-9 | Rebel;MP5-SD | Liquidation;P90 | Vent Rush;SCAR-20 | Poultrygeist
+RecoilBlueList = Nova | Plume;Sawed-Off | Devourer;MAG-7 | Popdog;MP7 | Guerrilla;PP-Bizon | Midnight Palm;FAMAS | Meow 36
+
+KilowattGoldList = Karambit | Case Hardened;Butterfly Knife | Case Hardened;M9 Bayonet | Case Hardened;Talon Knife | Case Hardened
+KilowattRedList = AK-47 | Inheritance;M4A1-S | Emphorosaur-S;Glock-18 | Crack Addicts;MAC-10 | Sakkaku
+KilowattPinkList = AWP | Duality;MP9 | Featherweight;Five-SeveN | Hybrid;P90 | Drill Season
+KilowattPurpleList = UMP-45 | Motorized;Tec-9 | Slag;SG 553 | Cyberforce;Desert Eagle | Midnight Storm;FAMAS | Bubblegum
+KilowattBlueList = Sawed-Off | Kiss♥Love;Nova | Toy Soldier;MAG-7 | Copper Plate;MP7 | Akoben;PP-Bizon | Embargo;M249 | Downtown
+
+RevolutionGoldList = Karambit | Black Laminate;Butterfly Knife | Black Laminate;M9 Bayonet | Black Laminate;Talon Knife | Black Laminate
+RevolutionRedList = AK-47 | Head Shot;M4A4 | Temukau;Glock-18 | Umbral Rabbit;MP9 | Starlight Protector
+RevolutionPinkList = AWP | Duality;MAC-10 | Allure;Five-SeveN | Hybrid;Dual Berettas | Flora Carnivora
+RevolutionPurpleList = UMP-45 | Motorized;Tec-9 | Rebel;MP5-SD | Liquidation;P90 | Vent Rush;SCAR-20 | Poultrygeist
+RevolutionBlueList = Nova | Plume;Sawed-Off | Devourer;MAG-7 | Popdog;MP7 | Guerrilla;PP-Bizon | Midnight Palm;FAMAS | Meow 36
+
+FractureGoldList = Karambit | Autotronic;Butterfly Knife | Autotronic;M9 Bayonet | Autotronic;Talon Knife | Autotronic
+FractureRedList = AK-47 | Legion of Anubis;Desert Eagle | Printstream;M4A1-S | Printstream;Glock-18 | Vogue
+FracturePinkList = AWP | Exoskeleton;MP9 | Hydra;P250 | Hat Trick;MAC-10 | Disco Tech
+FracturePurpleList = Five-SeveN | Angry Mob;Tec-9 | Decimator;UMP-45 | Bounty Call;MP5-SD | Autumn Twilly;SCAR-20 | Enforcer
+FractureBlueList = Nova | Windblown;Sawed-Off | Spirit Board;MAG-7 | Heat;MP7 | Abyssal Apparition;PP-Bizon | Runic;FAMAS | Decommissioned
+
+ClutchGoldList = Karambit | Crimson Web;Butterfly Knife | Crimson Web;M9 Bayonet | Crimson Web;Sport Gloves | Superconductor;Hydra Gloves | Emerald
+ClutchRedList = AK-47 | Neon Rider;M4A4 | Neo-Noir;AWP | Neo-Noir;Glock-18 | Neo-Noir
+ClutchPinkList = MP7 | Bloodsport;USP-S | Cortex;Five-SeveN | Hyper Beast;MAC-10 | Neon Rider
+ClutchPurpleList = P90 | Shallow Grave;Tec-9 | Bamboozle;MP5-SD | Oxide Oasis;Desert Eagle | Cobalt Disruption;UMP-45 | Scaffold
+ClutchBlueList = Nova | Gila;Sawed-Off | Limelight;MAG-7 | Petroglyph;PP-Bizon | High Roller;M249 | Aztec;FAMAS | Valence
+```
