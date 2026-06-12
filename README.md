@@ -1,6 +1,5 @@
----
-```
-markdown
+--
+```markdown
 # 🎮 CS2 Case Bot for Streamer.bot
 
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20Me-FF5E5B?style=flat-square&logo=kofi&logoColor=white)](https://ko-fi.com/mk4gtiguy)
