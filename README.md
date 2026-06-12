@@ -1,4 +1,4 @@
-# CS2-Case-Bot-V1.3
+```markdown
 # 🎮 CS2 Case Bot for Streamer.bot
 
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20Me-FF5E5B?style=flat-square&logo=kofi&logoColor=white)](https://ko-fi.com/mk4gtiguy)
@@ -124,3 +124,72 @@ For detailed setup instructions, see [`setup-guide.md`](setup-guide.md)
 ---
 
 ## 🔧 Commands Cheat Sheet for Viewers
+
+```
+
+📦 CASE COMMANDS
+!setcase [Dreams/Recoil/Kilowatt/Revolution/Fracture/Clutch] - Switch cases
+!case - Open your selected case
+!caseinfo - See all cases and prices
+!odds - See drop rates
+
+💰 ECONOMY COMMANDS
+!balance - Check your balance
+!daily - Claim free 25
+!inv - View inventory
+!sell - Sell a random item
+!tradeup - Trade 10 Blues for 1 Purple
+!inventoryvalue - Total inventory worth
+
+🎰 JACKPOT COMMANDS
+!jackpot - Enter with a random item
+!jackpotinfo - See current pot
+
+📊 STATS & LEADERBOARDS
+!mystats - Your personal stats
+!casestats - Total case opens
+!topmoney - Richest users
+!topinventory - Highest inventory value
+!topgolds - Most gold pulls
+!topopens - Most cases opened
+
+❓ HELP
+!help - Show this list
+
+```
+
+---
+
+## 🤝 Support the Project
+
+If this bot brings entertainment to your stream, consider supporting continued development:
+
+[![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/mk4gtiguy)
+
+Your support helps keep the project maintained and updated!
+
+---
+
+## 📝 License
+
+This project is licensed under the **MIT License** with an **IP Disclaimer** — see [LICENSE](LICENSE) file for details.
+
+- ✅ Free to use, modify, and share
+- ✅ Donations accepted
+- ❌ Not for commercial resale
+- ❌ Not affiliated with Valve Corporation
+
+---
+
+## 🙏 Credits
+
+- Created by **Mk4gtiguy**
+- Skin names from Counter-Strike 2 © Valve Corporation
+- Built for [Streamer.bot](https://streamer.bot)
+
+---
+
+## ⚠️ Legal Note
+
+This software is a **fan project** and does not contain any actual gambling or real money transactions. All currency and items are simulated for entertainment purposes only.
+```
